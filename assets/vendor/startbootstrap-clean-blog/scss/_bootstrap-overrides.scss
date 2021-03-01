@@ -25,3 +25,16 @@
   font-size: 16px;
   padding: 25px 35px;
 }
+
+#mainNav.slim {
+  background-color: rgba(4,91,6,0.9);
+}
+
+#mainNav.slim .navbar-nav > li.nav-item > a, #mainNav.slim .navbar-brand {
+  color: #FFFFFF;
+}
+
+#mainNav.slim .navbar-nav > li.nav-item > a:hover, #mainNav.slim .navbar-brand:hover {
+  color: #BDD2B7;
+  text-decoration: underline;
+}
