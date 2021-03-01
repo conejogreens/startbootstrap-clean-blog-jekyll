@@ -42,3 +42,12 @@
 a:hover {
   color: #259b0c;
 }
+
+#logo {
+  position: relative; 
+  background: url(https://conejogreens.org/img/logo.png) top left no-repeat;
+  height: 40px;
+  width: 40px;
+  left: 95px;
+  background-size: contain;
+}
