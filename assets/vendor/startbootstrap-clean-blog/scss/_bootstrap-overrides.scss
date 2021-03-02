@@ -34,7 +34,7 @@
   color: #FFFFFF;
 }
 
-#mainNav.slim .navbar-nav > li.nav-item > a:hover, #mainNav.slim .navbar-brand:hover, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover, #mainNav.is-fixed .navbar-brand:hover {
+#mainNav .navbar-nav>li.nav-item>a:hover, #mainNav .navbar-brand:hover, #mainNav.slim .navbar-nav > li.nav-item > a:hover, #mainNav.slim .navbar-brand:hover, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover, #mainNav.is-fixed .navbar-brand:hover {
   color: #BDD2B7;
   text-decoration: underline;
 }
